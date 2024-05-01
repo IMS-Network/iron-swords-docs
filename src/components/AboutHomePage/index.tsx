@@ -13,6 +13,7 @@ const AboutHomePage = () => {
       </p>
       <div>
         <h3 className={styles.subtitle}>איך אפשר לעזור?</h3>
+        <div className={styles.cardsContainer}>
         <div className={styles.card}>
           <MdOutlineVolunteerActivism className={styles.icon} />
           <p>אם יש לכם זמן פנוי ורצון להתנדב לעזור למאמץ המלחמתי אז הירשמו בטופס למטה</p>
@@ -25,6 +26,7 @@ const AboutHomePage = () => {
           <MdOutlineSearch className={styles.icon} />
           <p>בשביל לספר את הסיפור שלהם, הגיבורים שנפלו במלחמה על הקיום שלנו בארץ ישראל</p>
         </div>
+      </div>
       </div>
       <h3 className={styles.subtitle}>מה צריך לדעת?</h3>
       <ul className={styles.list}>
