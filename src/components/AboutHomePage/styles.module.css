@@ -1,0 +1,41 @@
+.container {
+    direction: rtl; /* Right-to-left text direction */
+    text-align: right; /* Align text to the right */
+    padding: 20px;
+    margin: 20px auto; /* Centers the container with auto margins on both sides */
+    border: 1px solid #ccc; /* Just for visibility */
+    border-radius: 8px; /* Optional: for better aesthetics */
+    max-width: 800px; /* Limits the width of the container for better readability */
+  }
+  
+  .title {
+    font-size: 28px; /* Larger font size for main title */
+    color: #004D40; /* Deep teal for contrast */
+    margin-bottom: 15px; /* Space below the title */
+  }
+  
+  .subtitle {
+    font-size: 22px; /* Subtitle font size */
+    color: #00695C; /* Teal shade for subtitles */
+    margin-top: 20px; /* Space above subtitles */
+    margin-bottom: 10px; /* Space below subtitles */
+  }
+  
+  .text {
+    font-size: 18px; /* Text font size */
+    color: #333; /* Dark grey for text */
+    line-height: 1.6; /* Line height for better readability */
+    margin-bottom: 20px; /* Space below paragraphs */
+  }
+  
+  .list {
+    list-style-type: none; /* No bullets for a cleaner look */
+    padding-left: 20px; /* Indentation for the list */
+    margin-bottom: 20px; /* Space below the list */
+  }
+  
+  .list li {
+    font-size: 18px; /* List item font size */
+    margin-bottom: 10px; /* Space between list items */
+  }
+  
