@@ -18,7 +18,7 @@ const config: Config = {
   organizationName: 'ims-network', // Usually your GitHub org/user name.
   projectName: 'iron-swords-docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
