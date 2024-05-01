@@ -1,8 +1,8 @@
 {
-    "label": "פרסום פוסטים",
+    "label": "סוגי תוכן",
     "position": 2,
     "link": {
       "type": "generated-index",
-      "description": "איך מפרסמים פוסטים באתר"
+      "description": "איך מפרסמים פוסטים לפי סוג באתר"
     }
 }
