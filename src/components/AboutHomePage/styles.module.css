@@ -8,7 +8,7 @@
     max-width: 800px;
     background: #ffffff; /* Bright background for better readability */
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Soft shadow for depth */
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern font */
+    font-family: 'Assistant', sans-serif; /* Modern font */
   }
   
   .title, .subtitle {
@@ -38,18 +38,25 @@
     margin-bottom: 25px;
   }
   
-  .list {
-    list-style-type: disc; /* Add bullets back for clearer distinction */
-    padding-left: 40px; /* Adjust indentation for list */
+  .card {
+    display: flex;
+    align-items: center;
+    background: #F9F9F9; /* Light background for cards */
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for cards */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effect */
   }
   
-  .list li {
-    font-size: 18px;
-    margin-bottom: 12px; /* Adjust spacing for clarity */
+  .card:hover {
+    transform: translateY(-5px); /* Slight raise effect on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Increased shadow on hover */
   }
   
-  .list li:hover {
-    color: #005a4f; /* Add a hover effect */
-    cursor: pointer; /* Indicates interactivity */
+  .icon {
+    font-size: 24px; /* Icon size */
+    color: #CF2E2E; /* Icon color to match brand color */
+    margin-right: 10px; /* Space between icon and text */
   }
   
