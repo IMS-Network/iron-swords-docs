@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'ספר המדריכים למתנדב',
   tagline: 'אתר ההסברה חרבות ברזל',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://docs.iron-swords.co.il',
@@ -58,12 +58,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/iron-swords-background.png',
     navbar: {
       title: 'ספר המדריכים למתנדב',
       logo: {
         alt: 'חרבות ברזל',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
