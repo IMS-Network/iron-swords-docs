@@ -48,7 +48,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/IMS-Network/iron-swords-docs/tree/production/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -58,7 +58,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/iron-swords-background.png',
     navbar: {
       title: 'ספר המדריכים למתנדב',
@@ -88,45 +87,7 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'קישורים מהירים',
-          items: [
-            {
-              label: 'ברוכים הבאים',
-              to: '/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
+        
       ],
       copyright: `כל הזכויות שמורות לעם ישראל © ${new Date().getFullYear()}. ביחד ננצח 🇮🇱🎗️`,
     },
