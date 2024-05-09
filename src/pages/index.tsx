@@ -21,12 +21,12 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            תחילת הדרך
+            מדריכים
           </Link>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">  {/* Update the href if needed */}
-            תחילת הדרך
+            עדכונים וחדשות
           </Link>
         </div>
       </div>

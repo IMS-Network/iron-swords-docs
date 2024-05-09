@@ -44,6 +44,7 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
+          routeBasePath: '/updates',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -71,6 +72,11 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'מדריכים',
+        },
+        {
+          position: 'left',
+          label: 'עדכונים וחדשות',
+          href: '/updates',
         },
         {
           href: 'https://iron-swords.co.il/',
