@@ -58,7 +58,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/iron-swords-background.png',
+    image: 'img/iron-swords-background.jpg',
     navbar: {
       title: 'ספר המדריכים למתנדב',
       logo: {
