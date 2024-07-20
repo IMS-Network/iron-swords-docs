@@ -23,12 +23,24 @@ description: פרסום פוסט במדור גיבורים
 :::danger[אזהרה]
 **אין לתרגם שמות, או לנסות להתאים שמות לתרגום באנגלית! עושים שימוש במידע המפורסם לציבור באתר צה״ל בלבד**
 :::
+
 #### איך מוצאים את השם?
 1. [נכנסים לאתר צה״ל](https://www.idf.il/%D7%A0%D7%95%D7%A4%D7%9C%D7%99%D7%9D/%D7%97%D7%9C%D7%9C%D7%99-%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94/)
 2. מחפשים את השם של החלל בעברית
 3. פותחים את העמוד האישי של החלל באתר
 4. מעתיקים את השם המלא של החלל כפי שהוא מופיע באתר באנגלית
 5. מדביקים את השם בכותרת
+   
+<figure className="media">
+  <div data-oembed-url="https://www.wizardshot.com/embed/tutorials/10109-navigate-through-idf-website-to-access-personal-page">
+    <div style={{ position: 'relative', height: 0, paddingBottom: '65%', pointerEvents: 'unset' }}>
+      <iframe 
+        src="https://www.wizardshot.com/embed/tutorials/10109-navigate-through-idf-website-to-access-personal-page" 
+        style={{ position: 'absolute', width: '100%', height: '100%', top: 0, left: 0, border: 'none', borderRadius: '4px' }}
+      ></iframe>
+    </div>
+  </div>
+</figure>
 ### תוכן
 התוכן יכיל את סיפור החיים האישי של החלל ואת המידע המפורסם עליו באתר צה״ל
 
@@ -94,6 +106,16 @@ description: פרסום פוסט במדור גיבורים
 חל איסר מוחלט על לעשות שימוש בתמונות של חללים מכל מקור אחר
 רק על פי המידע שפורסם לציבור באתר צה״ל
 :::
+<figure className="media">
+  <div data-oembed-url="https://www.wizardshot.com/embed/tutorials/10110-">
+    <div style={{ position: 'relative', height: 0, paddingBottom: '65%', pointerEvents: 'unset' }}>
+      <iframe 
+        src="https://www.wizardshot.com/embed/tutorials/10110-" 
+        style={{ position: 'absolute', width: '100%', height: '100%', top: 0, left: 0, border: 'none', borderRadius: '4px' }}
+      ></iframe>
+    </div>
+  </div>
+</figure>
 #### תקציר
 תקציר יהיה סיבת הנפילה של החלל, את התקציר נכתוב באנלית
 

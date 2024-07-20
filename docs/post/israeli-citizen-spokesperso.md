@@ -36,15 +36,48 @@ description: לשכת הדוברות האזרחית
 
     נבחר בשפה האנגלית, נעתיק את כתובת הסרטון ונלחת על ״Transcript״
 
+<figure className="media">
+  <div data-oembed-url="https://www.wizardshot.com/embed/tutorials/10115-tutorial-for-accessing-and-navigating-youtube-transcripts">
+    <div style={{ position: 'relative', height: 0, paddingBottom: '65%', pointerEvents: 'unset' }}>
+      <iframe 
+        src="https://www.wizardshot.com/embed/tutorials/10115-tutorial-for-accessing-and-navigating-youtube-transcripts" 
+        style={{ position: 'absolute', width: '100%', height: '100%', top: 0, left: 0, border: 'none', borderRadius: '4px' }}
+      ></iframe>
+    </div>
+  </div>
+</figure>
+
 2. **בינה מלאכותית**
 
    נעשה שימוש ב chatGPT, אנחנו נעתיק את הטקסט מהשלב הקודם
 
    נשתמש בהוראה הזאת: 
+
+   **לשפה אנגלית - השפה הראשית של האתר! חובה לתרגם**
    ```
+   format this, do not remove any words or change the context & add related titles to each section and translate to english
+   ```
+   לשפה הרוסית
+   ``` 
+   format this, do not remove any words or change the context & add related titles to each section and translate to russian
+   ```
+    לשפה הגרמנית
+    ```
+    format this, do not remove any words or change the context & add related titles to each section and translate to german
+    ```
+    לשפה העברית
+    ```
    format this, do not remove any words or change the context & add related titles to each section
    ```
    אחרי זה נדביק את הטקטס
+
+   :::warning[אזהרה]
+
+   בגלל מערכת השפות יש להוסיף גם את התרגום לכל השפות הנדרשות
+
+   השפה הראשית של האתר היא אנגלית, הפורמט שיהיה לכם אחרי השלב הזה הוא עברית
+
+   :::
 
    את התוצאה נעתיק, ונדביק על גביי תוכן הפוסט
 

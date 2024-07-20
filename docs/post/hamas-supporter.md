@@ -42,6 +42,17 @@ description: פרסום פוסט במדור תומך חאמס
     1. לחיצה על הכותרת
     2. שינוי הכותרת
 
+<figure className="media">
+  <div data-oembed-url="https://www.wizardshot.com/embed/tutorials/10114-tutorial-deleting-an-account-on-iron-swords-war-website">
+    <div style={{ position: 'relative', height: 0, paddingBottom: '65%', pointerEvents: 'unset' }}>
+      <iframe 
+        src="https://www.wizardshot.com/embed/tutorials/10114-tutorial-deleting-an-account-on-iron-swords-war-website" 
+        style={{ position: 'absolute', width: '100%', height: '100%', top: 0, left: 0, border: 'none', borderRadius: '4px' }}
+      ></iframe>
+    </div>
+  </div>
+</figure>
+
 ### הגדרות הפוסט - מנהל הפוסט שלי
 #### קטגוריה
 אנחנו נבחר בקטגוריה "Hamas Supporters"

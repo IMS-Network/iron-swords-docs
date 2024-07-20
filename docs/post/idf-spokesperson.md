@@ -31,12 +31,37 @@ description: עדכוני דו״צ
 
     נבחר בשפה העברית, נעתיק את כתובת הסרטון ונלחת על ״Transcript״
 
+<figure className="media">
+  <div data-oembed-url="https://www.wizardshot.com/embed/tutorials/10112-steps-to-access-online-video-transcripts-on-youtube">
+    <div style={{ position: 'relative', height: 0, paddingBottom: '65%', pointerEvents: 'unset' }}>
+      <iframe 
+        src="https://www.wizardshot.com/embed/tutorials/10112-steps-to-access-online-video-transcripts-on-youtube" 
+        style={{ position: 'absolute', width: '100%', height: '100%', top: 0, left: 0, border: 'none', borderRadius: '4px' }}
+      ></iframe>
+    </div>
+  </div>
+</figure>
+
 2. **בינה מלאכותית**
    
    נעשה שימוש ב chatGPT, אנחנו נעתיק את הטקסט מהשלב הקודם
 
    נשתמש בהוראה הזאת: 
+
+   **לשפה אנגלית - השפה הראשית של האתר! חובה לתרגם**
    ```
+   format this, do not remove any words or change the context & add related titles to each section and translate to english
+   ```
+   לשפה הרוסית
+   ``` 
+   format this, do not remove any words or change the context & add related titles to each section and translate to russian
+   ```
+    לשפה הגרמנית
+    ```
+    format this, do not remove any words or change the context & add related titles to each section and translate to german
+    ```
+    לשפה העברית
+    ```
    format this, do not remove any words or change the context & add related titles to each section
    ```
    אחרי זה נדביק את הטקטס
@@ -51,24 +76,6 @@ description: עדכוני דו״צ
 
    את התוצאה נעתיק, ונדביק על גביי תוכן הפוסט
 
-   :::info[מידע חשוב]
-   אם אתם מפרסמים בעבור שפה מסויימת בעזרת מערכת התרגום באתר, אז נוסיף בסוף ההוראה את הבקשה לתרגם את הטקסט
-
-   **לשפה אנגלית - השפה הראשית של האתר! חובה לתרגם**
-   ```
-   format this, do not remove any words or change the context & add related titles to each section and translate to english
-   ```
-   לשפה הרוסית
-   ``` 
-   format this, do not remove any words or change the context & add related titles to each section and translate to russian
-   ```
-    לשפה הגרמנית
-    ```
-    format this, do not remove any words or change the context & add related titles to each section and translate to german
-    ```
-
-   :::
-
 ### הגדרות הפוסט - מנהל הפוסט שלי
 #### קטגוריה
 אנחנו נבחר בקטגוריה "IDF Spokesperson"
@@ -76,5 +83,15 @@ description: עדכוני דו״צ
 אין תגיות
 #### תמונה
 תמונת דובר צה"ל - אחידה שמוכנה מראש ואפשר למצוא אותה בתוך תקיית ״Web Assets״
+<figure className="media">
+  <div data-oembed-url="https://www.wizardshot.com/embed/tutorials/10113-setting-a-featured-image-in-wordpress">
+    <div style={{ position: 'relative', height: 0, paddingBottom: '65%', pointerEvents: 'unset' }}>
+      <iframe 
+        src="https://www.wizardshot.com/embed/tutorials/10113-setting-a-featured-image-in-wordpress" 
+        style={{ position: 'absolute', width: '100%', height: '100%', top: 0, left: 0, border: 'none', borderRadius: '4px' }}
+      ></iframe>
+    </div>
+  </div>
+</figure>
 #### תקציר
 התקציר יהיה קצר עד 20 מילים הקשור לפוסט
