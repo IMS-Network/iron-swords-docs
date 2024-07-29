@@ -67,7 +67,7 @@ description: לשכת הדוברות האזרחית
     ```
     לשפה העברית
     ```
-   format this, do not remove any words or change the context & add related titles to each section
+   format this, do not remove any words or change the context & add related titles to each section and translate to hebrew
    ```
    אחרי זה נדביק את הטקטס
 
