@@ -5,6 +5,7 @@ description: פרסום פוסט במדור גיבורים
 
 # גיבורים
 מדור גיבורים מוקדם לחללי צה״ל שמסרנו את נפשם בהגנה על מדינת ישראל ועל הזכות שלנו לחיות כאן
+
 הסיבה שאתם קוראים את הטקסט הזה היא הודות לאותם גיבורים, שהקדישו את החיים שלהם עד לנשימה האחרונה
 
 ### **להגן על הזכות שלנו לחיות פה** 🇮🇱🎗️
@@ -94,6 +95,18 @@ description: פרסום פוסט במדור גיבורים
 את תאריך הנפילה אנחנו נמצא בעמוד האישי של החלל באתר צה״ל
 
 חיילים שנפלו בשבת השחורה התאריל שלהם יהיה 07/10/2023 וההשעה תהיה 6:30 בבוקר
+
+<figure className="media">
+  <div data-oembed-url="https://www.wizardshot.com/embed/tutorials/10856-steps-for-accessing-idf-website-and-posting-content-on-iron-swords-war-website">
+    <div style={{ position: 'relative', height: 0, paddingBottom: '65%', pointerEvents: 'unset' }}>
+      <iframe 
+        src="https://www.wizardshot.com/embed/tutorials/10856-steps-for-accessing-idf-website-and-posting-content-on-iron-swords-war-website" 
+        style={{ position: 'absolute', width: '100%', height: '100%', top: 0, left: 0, border: 'none', borderRadius: '4px' }}
+      ></iframe>
+    </div>
+  </div>
+</figure>
+
 #### קטגוריה
 אנחנו נבחר בקטגוריה "Heroes"
 #### תגיות
@@ -102,6 +115,23 @@ description: פרסום פוסט במדור גיבורים
 את המידע הזה ניתן למצוא באתר צה״ל או בגליון הנתונים שלנו
 
 את שם העיר והיחידה נכתוב באנגלית על פי איך שהן מופיעות באינטרנט
+##### איך מוצאים את העיר והיחידה?
+<figure className="media">
+  <div data-oembed-url="https://www.wizardshot.com/embed/tutorials/10857-navigate-idf-website-to-access-specific-military-units">
+    <div style={{ position: 'relative', height: 0, paddingBottom: '65%', pointerEvents: 'unset' }}>
+      <iframe 
+        src="https://www.wizardshot.com/embed/tutorials/10857-navigate-idf-website-to-access-specific-military-units" 
+        style={{ position: 'absolute', width: '100%', height: '100%', top: 0, left: 0, border: 'none', borderRadius: '4px' }}
+      ></iframe>
+    </div>
+  </div>
+</figure>
+
+:::note[מידע חשוב]
+אתר העיר ואת היחידה יש לרשום באנגלית, אבל בשביל למצוא את הניסוח הנכון והמדוייק אנחנו
+אנחנו נבצע חיפוש באינרטנט ונכתוב את המידע על פי המידע שנמצא
+:::
+
 #### תמונה
 התמונה תהיה התמונה של החלל מתוך אתר צה״ל בלבד!
 :::danger[אזהרה]
