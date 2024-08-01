@@ -27,3 +27,16 @@ description: שימוש במערכת המשימות
     </div>
   </div>
 </figure>
+
+
+[מדור גיבורים](https://work.iron-swords.co.il/boards/team/59p5t3ffotb75yoe4c73wfw58e/bkzg1gfwczff53g3hfcus1khabr/vpduwkzmgd789mkz5rho7znw8ha)
+
+[מדור נרצחי השבת השחורה](https://work.iron-swords.co.il/boards/team/59p5t3ffotb75yoe4c73wfw58e/ba4gtrpzgc7ne7fkdoczf1bn7kc/vdnz44nhinfdfuq4m6ywxgzqggo)
+
+[מדור עובדה](https://work.iron-swords.co.il/boards/team/59p5t3ffotb75yoe4c73wfw58e/by9qqpo9hwid89jqb4kahyff3eh/vyxwnx3uh8pnhmb34kqnzzmq4kw)
+
+[מדור תומכי חמאס](https://work.iron-swords.co.il/boards/team/59p5t3ffotb75yoe4c73wfw58e/btbaz7rhb1fgw3djorhha1z8a7a/v7pmnoh3enpd97qcgwb6pqmzife)
+
+[תיקנו את זה עבורך](https://work.iron-swords.co.il/boards/team/59p5t3ffotb75yoe4c73wfw58e/bwnzqy5j7zigo3ew3cuu9gotcsw/v4tsafoeru7gd7f5adszxtbn8na)
+
+[עדכוני דו״צ](https://work.iron-swords.co.il/boards/team/59p5t3ffotb75yoe4c73wfw58e/bsmyhn7s4stfmzykra7k735ympw/vhirhnusi13d3udahtg86w67wcc)
