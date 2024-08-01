@@ -61,10 +61,6 @@ description: לשכת הדוברות האזרחית
    ``` 
    format this, do not remove any words or change the context & add related titles to each section and translate to russian
    ```
-    לשפה הגרמנית
-    ```
-    format this, do not remove any words or change the context & add related titles to each section and translate to german
-    ```
     לשפה העברית
     ```
    format this, do not remove any words or change the context & add related titles to each section and translate to hebrew
@@ -91,3 +87,19 @@ description: לשכת הדוברות האזרחית
 התמונה תהיה העיצב של הסרטון או באנגלית Thumbnail
 #### תקציר
 התקציר יהיה סיכום של כל התמלול ב50 מילים
+נעשה שימוש ב chatGPT, אנחנו נעתיק את הטקסט מהשלב הקודם
+   נשתמש בהוראה הזאת: 
+
+   **לשפה אנגלית - השפה הראשית של האתר! חובה לתרגם**
+   ```
+   create a 50-word summary
+   ```
+   לשפה הרוסית
+   ``` 
+   create a 50-word summary in Russian
+   ```
+    לשפה העברית
+    ```
+   create a 50-word summary in Hebrew
+   ```
+   אחרי זה נדביק את הטקטס
