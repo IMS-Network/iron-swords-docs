@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Hostages Counter Plugin
  * Description: A hostages plugin to embed a date counter with a shortcode.
- * Version: 1.0
+ * Version: 1.1
  * Author: Iron Swords
  */
 
