@@ -31,7 +31,6 @@ export default function Home(): JSX.Element {
       <main>
         <IconCardSection />
         <AboutHomePage />
-        <HomepageFeatures />
       </main>
     </Layout>
   );
