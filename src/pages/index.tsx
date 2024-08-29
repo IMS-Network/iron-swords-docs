@@ -4,6 +4,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import AboutHomePage from '@site/src/components/AboutHomePage';
+import IconCardSection from '../components/IconCardSection';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
@@ -28,6 +29,7 @@ export default function Home(): JSX.Element {
       description="מדריכים מתנדבים אתר ההסברה הבין לאומי למלחמת חרבות בזרל">
       <HomepageHeader />
       <main>
+        <IconCardSection />
         <AboutHomePage />
         <HomepageFeatures />
       </main>
