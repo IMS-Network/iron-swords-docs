@@ -9,26 +9,12 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          פורטל המדריכים למתנדב
-        </Heading>
-        <h2 className="hero__subtitle">{siteConfig.tagline}</h2>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/intro">
-            מדריכים
-          </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/updates">
-            עדכונים וחדשות
-          </Link>
-        </div>
+    <header className={clsx(styles.fullScreenHeader)}>
+      <div className={styles.headerContent}>
+        <h1 className={styles.headerTitle}>{siteConfig.title}</h1>
+        <p className={styles.headerSubtitle}>{siteConfig.tagline}</p>
       </div>
     </header>
   );
