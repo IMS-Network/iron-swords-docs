@@ -15,7 +15,7 @@ function IconCardSection() {
           <i className={`${styles.icon} fas fa-shield-alt`}></i>
           <h3 className={styles.cardTitle}>סוגי תוכן</h3>
         </a>
-        <a href="/transparency" className={styles.card}>
+        <a href="/category/%D7%97%D7%95%D7%A7-%D7%95%D7%AA%D7%A7%D7%9F" className={styles.card}>
           <i className={`${styles.icon} fas fa-search`}></i>
           <h3 className={styles.cardTitle}>חוק ותקן</h3>
         </a>
