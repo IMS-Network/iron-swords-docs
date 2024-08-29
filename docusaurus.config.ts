@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'ספר המדריכים למתנדב',
-  tagline: 'אתר ההסברה חרבות ברזל',
+  tagline: 'אתר ההסברה הבינלאומי למלחמת חרבות ברזל',
   favicon: 'img/logo.png',
 
   // Set the production url of your site here

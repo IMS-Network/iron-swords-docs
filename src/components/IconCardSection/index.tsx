@@ -7,17 +7,17 @@ function IconCardSection() {
     <section className={styles.iconCardSection}>
       <h2 className={styles.sectionTitle}>מה תרצו לעשות היום?</h2>
       <div className={styles.cardContainer}>
-        <a href="/privacy" className={styles.card}>
+        <a href="/category/%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D" className={styles.card}>
           <i className={`${styles.icon} fas fa-fingerprint`}></i>
-          <h3 className={styles.cardTitle}>פרטיות</h3>
+          <h3 className={styles.cardTitle}>מתחילים</h3>
         </a>
-        <a href="/security" className={styles.card}>
+        <a href="/category/%D7%A1%D7%95%D7%92%D7%99-%D7%AA%D7%95%D7%9B%D7%9F" className={styles.card}>
           <i className={`${styles.icon} fas fa-shield-alt`}></i>
-          <h3 className={styles.cardTitle}>אבטחה</h3>
+          <h3 className={styles.cardTitle}>סוגי תוכן</h3>
         </a>
         <a href="/transparency" className={styles.card}>
           <i className={`${styles.icon} fas fa-search`}></i>
-          <h3 className={styles.cardTitle}>שקיפות</h3>
+          <h3 className={styles.cardTitle}>חוק ותקן</h3>
         </a>
       </div>
     </section>
