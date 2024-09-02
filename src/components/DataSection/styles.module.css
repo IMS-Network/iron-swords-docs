@@ -1,15 +1,21 @@
 .dataSection {
-    background-color: #121212; /* or any appropriate background color */
-    padding: 20px;
-    border-radius: 8px;
+    background-color: #1c1c1c;
+    padding: 40px;
+    border-radius: 10px;
     color: #ffffff;
     font-family: 'Heebo', sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
   }
   
   .sectionTitle {
-    font-size: 24px;
+    font-size: 28px;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #f95805;
+    text-transform: uppercase;
   }
   
   .dataList {
@@ -18,10 +24,15 @@
     margin: 0;
   }
   
-  .dataList li {
-    font-size: 18px;
-    margin-bottom: 10px;
-    direction: rtl;
+  .listItem {
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #333;
+    border-radius: 8px;
     text-align: right;
+    direction: rtl;
+    transform-origin: bottom center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   }
   
