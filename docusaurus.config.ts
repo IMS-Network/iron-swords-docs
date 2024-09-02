@@ -29,6 +29,12 @@ const config: Config = {
     locales: ['he'],
   },
 
+  scripts: [
+    {
+      src: 'data:text/javascript,!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://forms.ims-network.net/api/packages/website";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e),setTimeout(function(){window.formbricks.init({environmentId:"cm0koyuj3005ujh81kahurco1",apiHost:"https://forms.ims-network.net"})},500);}();',
+    }
+  ],
+
   presets: [
     [
       'classic',
