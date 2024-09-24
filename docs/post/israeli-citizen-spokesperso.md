@@ -55,8 +55,10 @@ description: לשכת הדוברות האזרחית
 
    **לשפה אנגלית - השפה הראשית של האתר! חובה לתרגם**
    ```
-   format this, do not remove any words or change the context & add related titles to each section, do not remove any words! this needs to be an artical
-   can you make the titles H3 or H2 depending on where and what it needs
+   format this, do not remove any words or change the context & add related titles to each section, do not remove any words!
+  can you make the titles H3 or H4 depending on where and what it needs
+
+  Do not remove any words this is important and you are not allowed to remove any words or change the context
    ```
    לשפה הרוסית
    ``` 
