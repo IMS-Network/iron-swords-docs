@@ -50,15 +50,23 @@ description: עדכוני דו״צ
 
    **לשפה אנגלית - השפה הראשית של האתר! חובה לתרגם**
    ```
-   format this, do not remove any words or change the context & add related titles to each section and translate to english
+   format this, do not remove any words or change the context & add related titles to each section
+
+   make the titles H3 or H4 depending on where and what it need
    ```
    לשפה הרוסית
    ``` 
-   format this, do not remove any words or change the context & add related titles to each section and translate to russian
+   format this, do not remove any words or change the context & add related titles to each section
+
+   make the titles H3 or H4 depending on where and what it need
+   translate to russian, make sure to keep the context
    ```
     לשפה העברית
     ```
-   format this, do not remove any words or change the context & add related titles to each section and translate to hebrew
+    format this, do not remove any words or change the context & add related titles to each section
+
+   make the titles H3 or H4 depending on where and what it need
+   translate to hebrew, make sure to keep the context
    ```
    אחרי זה נדביק את הטקטס
 
