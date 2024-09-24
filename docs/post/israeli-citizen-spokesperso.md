@@ -103,14 +103,14 @@ description: לשכת הדוברות האזרחית
 
    **לשפה אנגלית - השפה הראשית של האתר! חובה לתרגם**
    ```
-   create a 50-word summary
+   create a 50-word excerpt based on the transcript
    ```
    לשפה הרוסית
    ``` 
-   create a 50-word summary in Russian
+   create a 50-word excerpt based on the transcript in Russian
    ```
     לשפה העברית
     ```
-   create a 50-word summary in Hebrew
+   create a 50-word excerpt based on the transcript in Hebrew
    ```
    אחרי זה נדביק את הטקטס
