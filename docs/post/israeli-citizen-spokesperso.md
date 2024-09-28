@@ -56,25 +56,25 @@ description: לשכת הדוברות האזרחית
    **לשפה אנגלית - השפה הראשית של האתר! חובה לתרגם**
    ```
    format this, do not remove any words or change the context & add related titles to each section, do not remove any words!
-  can you make the titles H3 or H4 depending on where and what it needs
+    can you make the titles H3 or H4 depending on where and what it needs
 
-  Do not remove any words this is important and you are not allowed to remove any words or change the context
+    Do not remove any words this is important and you are not allowed to remove any words or change the context
    ```
    לשפה הרוסית
    ``` 
    Format this, do not remove any words or change the context & add related titles to each section, do not remove any words!
-  can you make the titles H3 or H4 depending on where and what it needs
-  Do not remove any words. 
-  It is crucial, and you are not allowed to remove any words or change the context to translate to russian
-  make sure that the translation is grammatically correct and does not change the context
+    can you make the titles H3 or H4 depending on where and what it needs
+    Do not remove any words. 
+    It is crucial, and you are not allowed to remove any words or change the context to translate to russian
+    make sure that the translation is grammatically correct and does not change the context
    ```
     לשפה העברית
     ```
-  Format this, do not remove any words or change the context & add related titles to each section, do not remove any words!
-  can you make the titles H3 or H4 depending on where and what it needs
-  Do not remove any words. 
-  It is crucial, and you are not allowed to remove any words or change the context to translate to hebrew
-  make sure that the translation is grammatically correct and does not change the context
+    Format this, do not remove any words or change the context & add related titles to each section, do not remove any words!
+    can you make the titles H3 or H4 depending on where and what it needs
+    Do not remove any words. 
+    It is crucial, and you are not allowed to remove any words or change the context to translate to hebrew
+    make sure that the translation is grammatically correct and does not change the context
    ```
    אחרי זה נדביק את הטקטס
 
