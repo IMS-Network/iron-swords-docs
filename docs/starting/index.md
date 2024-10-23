@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # ברוכים הבאים
 
 ברוכים הבאים לספר המדריכים של אתר ההסברה הגדול ביותר למלחמת חרבות ברזל!
@@ -41,6 +45,3 @@
 
 ## ממשיכים מכאן
 
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
