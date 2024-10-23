@@ -62,4 +62,4 @@
 ![alt text](image-2.png)
 בפס העליון יש את כפתור הפרסום והשמירה של הפוסט
 - Save Draft - שמירת טיוטה
-- Submit for Review - שליחה לבדיקה להנהלה של האתר
+- Submit for Review - שליחה לבדיקה 
