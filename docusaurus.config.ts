@@ -79,6 +79,17 @@ const config: Config = {
           label: 'מדריכים',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'starting',
+          position: 'left',
+          label: 'מתחילים',
+        },
+        {
+          href: 'https://iron-swords.co.il/',
+          label: 'אתר ההסברה',
+          position: 'right',
+        },
+        {
           position: 'left',
           label: 'עדכונים וחדשות',
           href: '/updates',
