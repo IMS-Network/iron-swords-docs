@@ -4,3 +4,46 @@
 
 ## המבנה
 
+:::note[חשוב לדעת]
+ההסבר פה הוא מותאם במיוחד בשביל אתר ההסברה שלנו.
+האתר שלנו עבר התאמה בשביל לעזור למתנדבים לפרסם פוסטים בצורה מהירה ויעילה.
+:::
+
+בצעד שמאל אפשר לראות את תפריט הניווט הכללי של האתר. בתפריט הזה ניתן למצוא את כל הפעולות העיקריות שניתן לבצע באתר כמו פרסום פוסטים, עריכת פרטים אישיים ועוד.
+
+למעלה מהתפריט ניתן לראות את הלוגו של האתר ואת הכותרת שלו, ולבצע פעולות מהירות כמו פרסום פוסט חדשות או שינוי התצוגה של הפוסטים לפי השפות שאתר ההסברה שלנו תומך בהן.
+
+![alt text](image.png)
+
+בתמונה הזאת אנחנו עומדים על ״דף הבית״ את הדף הזה אנחנו נראה אחרי שנתחבר לאתרֿ, הדף הזה מספק מידע על מה קורה באתר.
+
+בתפריט מצעד שמאל, אפשר לזהות את סוגי התוכן שאנחנו עושים הסברה עליהם
+
+## פס הניווט
+- Dashboard
+- Posts (כל הפוסטים שפורסמו באתר)
+  - All Posts
+  - Add New (הוספת פוסט חדש)
+- [Facts](https://iron-swords.co.il/wp-admin/admin.php?page=facts-posts) (מדור עובדה)
+  - All Facts
+  - Add New Fact
+- Heroes (מדור גיבורים)
+  - All Heroes
+  - Add New Hero
+- Oct 7th Victims (מדור נרצחי השבת השחורה)
+  - All Victims
+  - Add New Victim
+- Terrorist Sympathizers (מדור אוהבי המחבלים)
+  - All Terrorist Sympathizers
+  - Add New Sympathizer
+- Hamas Supporters (מדור תומכי חמאס)
+  - All Hamas Supporters
+  - Add New Hamas Supporter
+- IDF Spokes (מדור עדכוני דו״צ)
+  - All IDF Spokesman Posts
+  - Add New IDF Spokesman Post
+- ICP Posts (מדור לשכת הדוברות האזרחית)
+  - All Israeli Citizen Spokespersons Posts
+  - Add New Israeli Citizen Spokespersons Post
+- Media
+- Profile
