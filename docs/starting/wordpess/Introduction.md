@@ -20,30 +20,30 @@
 בתפריט מצעד שמאל, אפשר לזהות את סוגי התוכן שאנחנו עושים הסברה עליהם
 
 ## פס הניווט
-- Dashboard
+- [Dashboard](https://iron-swords.co.il/wp-admin/index.php)
 - Posts (כל הפוסטים שפורסמו באתר)
   - All Posts
   - Add New (הוספת פוסט חדש)
 - [Facts](https://iron-swords.co.il/wp-admin/admin.php?page=facts-posts) (מדור עובדה)
   - All Facts
   - Add New Fact
-- Heroes (מדור גיבורים)
+- [Heroes](https://iron-swords.co.il/wp-admin/admin.php?page=heroes-posts) (מדור גיבורים)
   - All Heroes
   - Add New Hero
-- Oct 7th Victims (מדור נרצחי השבת השחורה)
+- [Oct 7th Victims](https://iron-swords.co.il/wp-admin/admin.php?page=massacre-victims-posts) (מדור נרצחי השבת השחורה)
   - All Victims
   - Add New Victim
-- Terrorist Sympathizers (מדור אוהבי המחבלים)
+- [Terrorist Sympathizers](https://iron-swords.co.il/wp-admin/admin.php?page=terrorist-sympathizers-posts) (מדור אוהבי המחבלים)
   - All Terrorist Sympathizers
   - Add New Sympathizer
-- Hamas Supporters (מדור תומכי חמאס)
+- [Hamas Supporters](https://iron-swords.co.il/wp-admin/admin.php?page=hamas-supporters-posts) (מדור תומכי חמאס)
   - All Hamas Supporters
   - Add New Hamas Supporter
-- IDF Spokes (מדור עדכוני דו״צ)
+- [IDF Spokes](https://iron-swords.co.il/wp-admin/admin.php?page=idf-spokesperson-posts) (מדור עדכוני דו״צ)
   - All IDF Spokesman Posts
   - Add New IDF Spokesman Post
-- ICP Posts (מדור לשכת הדוברות האזרחית)
+- [ICP Posts](https://iron-swords.co.il/wp-admin/admin.php?page=israeli-citizen-spokesperson-posts) (מדור לשכת הדוברות האזרחית)
   - All Israeli Citizen Spokespersons Posts
   - Add New Israeli Citizen Spokespersons Post
-- Media
-- Profile
+- [Media](https://iron-swords.co.il/wp-admin/upload.php)
+- [Profile](https://iron-swords.co.il/wp-admin/profile.php)
