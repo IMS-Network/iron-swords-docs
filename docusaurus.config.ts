@@ -128,7 +128,10 @@ const config: Config = {
       links: [
         
       ],
-      copyright: `כל הזכויות שמורות לעם ישראל © ${new Date().getFullYear()}. ביחד ננצח 🇮🇱🎗️`,
+      copyright: `כל הזכויות שמורות לעם ישראל © ${new Date().getFullYear()}.
+        <br> ביחד ננצח 🇮🇱🎗️ <br>
+        הפרויקט אינו קשור לממשלת ישראל, לצה"ל או לכל גוף ממשלתי אחר, והוא מיזם עצמאי של ישראלים.`,
+
     },
     prism: {
       theme: prismThemes.github,
