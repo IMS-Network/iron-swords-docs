@@ -84,14 +84,23 @@ const config: Config = {
           label: 'חוק ותקן',
         },
         {
-          href: 'https://iron-swords.co.il/',
-          label: 'אתר ההסברה',
+          type: 'dropdown',
+          label: 'קישורים חשובים',
           position: 'right',
-        },
-        {
-          href: 'https://iron-swords.co.il/',
-          label: 'אתר ההסברה',
-          position: 'right',
+          items: [
+            {
+              href: 'https://iron-swords.co.il/',
+              label: 'אתר ההסברה',
+            },
+            {
+              href: 'https://app.clickup.com/9018603423/home',
+              label: 'פורטל המתנדבים',
+            },
+            {
+              href: 'https://discord.gg/88aZaVxDy5',
+              label: 'שרת הדיסקורד',
+            },
+          ],
         },
       ],
     },
