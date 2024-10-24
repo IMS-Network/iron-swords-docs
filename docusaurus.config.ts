@@ -67,12 +67,6 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'מדריכים',
-        },
-        {
-          type: 'docSidebar',
           sidebarId: 'starting',
           position: 'left',
           label: 'מתחילים',
