@@ -91,6 +91,12 @@ const config: Config = {
           label: 'סוגי תוכן',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'legal',
+          position: 'left',
+          label: 'חוק ותקן',
+        },
+        {
           href: 'https://iron-swords.co.il/',
           label: 'אתר ההסברה',
           position: 'right',
