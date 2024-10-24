@@ -85,6 +85,13 @@ const config: Config = {
           label: 'מתחילים',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'post',
+          position: 'left',
+          label: 'סוגי תוכן',
+        },
+
+        {
           href: 'https://iron-swords.co.il/',
           label: 'אתר ההסברה',
           position: 'right',
