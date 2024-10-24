@@ -12,12 +12,14 @@ description: פרסום פוסט במדור נרצחי השבת השחורה
   src="https://www.wizardshot.com/embed/tutorials/18188-steps-to-adding-a-new-victim-iron-swords-war-tutorial" 
   style={{
     width: '100%', 
-    height: '950px',
+    height: '4050px',
     border: 'none', 
     borderRadius: '4px',
     margin: '20px 0',
   }}
 />
+
+
 ## אפיון הפוסט
 ### כותרת
 שם מלא באנגלית
