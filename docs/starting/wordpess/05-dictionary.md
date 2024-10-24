@@ -3,3 +3,10 @@
 האייכונים מושכים אנשים לקרוא ולהבין את המסרים שאנחנו מנסים להעביר
 המילון הבא מסביר את המשמעות של כל אייכון ובאיזה הקשר עושים שימוש באייכון הזה
 
+| Term            | Icon Class         |
+|-----------------|--------------------|
+| Civilians       | **fa-user-friends** |
+| Terrorists      | **fa-bomb**         |
+| Rescue          | **fa-medkit**       |
+| Discovery       | **fa-compass**      |
+| Missing/Hostage | **fa-ribbon**       |
