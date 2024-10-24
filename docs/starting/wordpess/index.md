@@ -1,3 +1,8 @@
+---
+sidebarCollapsed: false
+sidebarCollapsible: false
+---
+
 # וורדפרס
 ## מתחילים עם וורדפרס
 
