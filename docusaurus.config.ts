@@ -102,6 +102,25 @@ const config: Config = {
             },
           ],
         },
+      {
+        type:'dropdown',
+        label: 'חברות וארגונים שותפים',
+        position: 'right',
+        items: [
+          {
+            href: 'https://tegriai.com/',
+            label: 'TeGriAi',
+          },
+          {
+            href: 'https://ims-network.net/',
+            label: 'איי.אמ.אס טכנולוגיות',
+          },
+          {
+            href: 'https://גיימינג.ישראל',
+            label: 'איגוד הגיימינג הישראלי',
+          },
+        ],
+      },
       ],
     },
     footer: {
