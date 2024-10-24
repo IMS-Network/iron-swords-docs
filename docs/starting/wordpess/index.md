@@ -21,6 +21,7 @@
 ![alt text](image.png)
 
 בתפריט מצעד שמאל, אפשר לזהות את סוגי התוכן שאנחנו עושים הסברה עליהם
+![alt text](image-6.png)
 
 ## פס הניווט
 - [Dashboard](https://iron-swords.co.il/wp-admin/index.php)
