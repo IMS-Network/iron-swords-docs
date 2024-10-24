@@ -6,7 +6,18 @@ description: פרסום פוסט במדור נרצחי השבת השחורה
 # נרצחי השבת השחורה
 במדור הזה אנחנו נפרסם את הפוסטים והסיפורים של הנרצחים בשבת השחורה
 
+## איך לפרסם פוסט במדור נרצחי השבת השחורה
 
+<iframe 
+  src="https://www.wizardshot.com/embed/tutorials/18188-steps-to-adding-a-new-victim-iron-swords-war-tutorial" 
+  style={{
+    width: '100%', 
+    height: '950px',
+    border: 'none', 
+    borderRadius: '4px',
+    margin: '20px 0',
+  }}
+/>
 ## אפיון הפוסט
 ### כותרת
 שם מלא באנגלית
