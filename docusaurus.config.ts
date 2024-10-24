@@ -48,14 +48,7 @@ const config: Config = {
           editUrl:
             'https://github.com/IMS-Network/iron-swords-docs/tree/production/',
         },
-        blog: {
-          showReadingTime: true,
-          routeBasePath: '/updates',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/IMS-Network/iron-swords-docs/tree/production/',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -100,11 +93,6 @@ const config: Config = {
           href: 'https://iron-swords.co.il/',
           label: 'אתר ההסברה',
           position: 'right',
-        },
-        {
-          position: 'left',
-          label: 'עדכונים וחדשות',
-          href: '/updates',
         },
         {
           href: 'https://iron-swords.co.il/',
