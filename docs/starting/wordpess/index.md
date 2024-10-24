@@ -47,6 +47,9 @@
   - All Israeli Citizen Spokespersons Posts
   - Add New Israeli Citizen Spokespersons Post
 - [Media](https://iron-swords.co.il/wp-admin/upload.php)
+- Planner
+  - Content Calendar
+  - Content Board
 - [Profile](https://iron-swords.co.il/wp-admin/profile.php)
 
 ## בונה הפוסט
@@ -58,9 +61,9 @@
 ### [מנהל הפוסט שלי](/starting/wordpess/post/)
 [מנהל הפוסט שלי](/starting/wordpess/post/), נמצא בצעד ימין של בונה הפוסט/דף והוא חלק מאוד עיקרי בכתיבת הפוסטים שלנו
 
-![alt text](image-1.png)
+
 ## פס עליון
-![alt text](image-2.png)
+
 
 בפס העליון יש את כפתור הפרסום והשמירה של הפוסט
 - Save Draft - שמירת טיוטה
