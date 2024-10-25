@@ -55,8 +55,6 @@ description: פרסום פוסט במדור יומן מלחמה
 />
 
 
-
-
 למדריך: [איך לשנות את התמונה של הפוסט שלי](/starting/wordpess/image)
 
 
@@ -69,6 +67,7 @@ description: פרסום פוסט במדור יומן מלחמה
 אנחנו נבחר בקטגוריה "The War Diary"
 
 למדריך: [איך לשנות את הקטגוריה של הפוסט שלי](/starting/wordpess/category)
+
 ### תגיות
 - Northern Arrows - מבצע צה״ל בצפון
 
