@@ -12,6 +12,21 @@ description: פרסום פוסט במדור יומן מלחמה
 
 במדור זה נפרסם את הפוסטים והסיפורים של יומן המלחמה של צה״ל כפי שהם מופיעים אחד לאחד
 
+
+## איך לפרסם פוסט במדור יומן מלחמה
+
+<iframe 
+  src="https://www.wizardshot.com/embed/tutorials/18214-creating-a-complete-year-diary-in-one-document" 
+  style={{
+    width: '100%', 
+    height: '2950px',
+    border: 'none', 
+    borderRadius: '4px',
+    margin: '20px 0',
+  }}
+/>
+
+
 ## אפיון הפוסט
 ### כותרת
 תאריך מלא בלועזית
@@ -26,12 +41,38 @@ description: פרסום פוסט במדור יומן מלחמה
 ### תמונה
 התמונה של הפוסט תהיה התמונה הנבחרת שמפורסמת על ידי צה״ל באותו היום
 
+#### איך לשנות התמונה של הפוסט, במדור יומן מלחמה
+
+<iframe 
+  src="https://www.wizardshot.com/embed/tutorials/18216-steps-for-setting-featured-image-in-war-diary-tutorial" 
+  style={{
+    width: '100%', 
+    height: '3200px',
+    border: 'none', 
+    borderRadius: '4px',
+    margin: '20px 0',
+  }}
+/>
+
+
+למדריך: [איך לשנות את התמונה של הפוסט שלי](/starting/wordpess/image)
+
+
 ## הגדרות הפוסט - מנהל הפוסט שלי
 ### תאריך פרסום
 תאריך הפירסום יהיה זהה לתאריך המופיע בכותרת הפוסט
+למדריך: [איך לשנות את תאריך הפרסום בפוסטים שלי](/starting/wordpess/date)
+
 ### קטגוריה
 אנחנו נבחר בקטגוריה "The War Diary"
+
+למדריך: [איך לשנות את הקטגוריה של הפוסט שלי](/starting/wordpess/category)
+
 ### תגיות
-IDF - צה״ל
-War - מלחמה
+- Northern Arrows - מבצע צה״ל בצפון
+
+- Iron Swords War - מלחמת חרבות ברזל (צה״ל בעזה ויהודה ושומרון)
+
+- Iranian Terrorism - טרוריזם איראני (התקפות איראן כנגד כל מדינת ישראל)
+
 זה התגיות היחידות שאנחנו נשתמש בהן בפוסטים במדור זה

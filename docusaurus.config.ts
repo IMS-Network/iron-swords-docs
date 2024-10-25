@@ -48,14 +48,7 @@ const config: Config = {
           editUrl:
             'https://github.com/IMS-Network/iron-swords-docs/tree/production/',
         },
-        blog: {
-          showReadingTime: true,
-          routeBasePath: '/updates',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/IMS-Network/iron-swords-docs/tree/production/',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -74,20 +67,60 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'starting',
           position: 'left',
-          label: 'מדריכים',
+          label: 'מתחילים',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'post',
           position: 'left',
-          label: 'עדכונים וחדשות',
-          href: '/updates',
+          label: 'סוגי תוכן',
         },
         {
-          href: 'https://iron-swords.co.il/',
-          label: 'אתר ההסברה',
+          type: 'docSidebar',
+          sidebarId: 'legal',
+          position: 'left',
+          label: 'חוק ותקן',
+        },
+        {
+          type: 'dropdown',
+          label: 'קישורים חשובים',
           position: 'right',
+          items: [
+            {
+              href: 'https://iron-swords.co.il/',
+              label: 'אתר ההסברה',
+            },
+            {
+              href: 'https://app.clickup.com/9018603423/home',
+              label: 'פורטל המתנדבים',
+            },
+            {
+              href: 'https://discord.gg/88aZaVxDy5',
+              label: 'שרת הדיסקורד',
+            },
+          ],
         },
+      {
+        type:'dropdown',
+        label: 'חברות וארגונים שותפים',
+        position: 'right',
+        items: [
+          {
+            href: 'https://tegriai.com/',
+            label: 'TeGriAi',
+          },
+          {
+            href: 'https://ims-network.net/',
+            label: 'איי.אמ.אס טכנולוגיות',
+          },
+          {
+            href: 'https://גיימינג.ישראל',
+            label: 'איגוד הגיימינג הישראלי',
+          },
+        ],
+      },
       ],
     },
     footer: {
@@ -95,7 +128,10 @@ const config: Config = {
       links: [
         
       ],
-      copyright: `כל הזכויות שמורות לעם ישראל © ${new Date().getFullYear()}. ביחד ננצח 🇮🇱🎗️`,
+      copyright: `כל הזכויות שמורות לעם ישראל © ${new Date().getFullYear()}.
+        <br> ביחד ננצח 🇮🇱🎗️ <br>
+        הפרויקט אינו קשור לממשלת ישראל, לצה"ל או לכל גוף ממשלתי אחר, והוא מיזם עצמאי של ישראלים.`,
+
     },
     prism: {
       theme: prismThemes.github,
