@@ -41,6 +41,25 @@ description: פרסום פוסט במדור יומן מלחמה
 ### תמונה
 התמונה של הפוסט תהיה התמונה הנבחרת שמפורסמת על ידי צה״ל באותו היום
 
+#### איך לשנות התמונה של הפוסט, במדור יומן מלחמה
+
+<iframe 
+  src="https://www.wizardshot.com/embed/tutorials/18216-steps-for-setting-featured-image-in-war-diary-tutorial" 
+  style={{
+    width: '100%', 
+    height: '3200px',
+    border: 'none', 
+    borderRadius: '4px',
+    margin: '20px 0',
+  }}
+/>
+
+
+
+
+למדריך: [איך לשנות את התמונה של הפוסט שלי](/starting/wordpess/image)
+
+
 ## הגדרות הפוסט - מנהל הפוסט שלי
 ### תאריך פרסום
 תאריך הפירסום יהיה זהה לתאריך המופיע בכותרת הפוסט
@@ -51,7 +70,10 @@ description: פרסום פוסט במדור יומן מלחמה
 
 למדריך: [איך לשנות את הקטגוריה של הפוסט שלי](/starting/wordpess/category)
 ### תגיות
-Northern Arrows - מבצע צה״ל בצפון
-Iron Swords War - מלחמת חרבות ברזל (צה״ל בעזה ויהודה ושומרון)
-Iranian Terorizem - טרוריזם איראני (התקפות איראן כנגד כל מדינת ישראל)
+- Northern Arrows - מבצע צה״ל בצפון
+
+- Iron Swords War - מלחמת חרבות ברזל (צה״ל בעזה ויהודה ושומרון)
+
+- Iranian Terrorism - טרוריזם איראני (התקפות איראן כנגד כל מדינת ישראל)
+
 זה התגיות היחידות שאנחנו נשתמש בהן בפוסטים במדור זה
