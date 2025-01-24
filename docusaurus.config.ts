@@ -69,13 +69,19 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'starting',
           position: 'left',
-          label: 'מתחילים',
+          label: 'אתר ההסברה',
         },
         {
           type: 'docSidebar',
           sidebarId: 'post',
           position: 'left',
           label: 'סוגי תוכן',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'heroes',
+          position: 'left',
+          label: 'פורטל גיבורים',
         },
         {
           type: 'docSidebar',
