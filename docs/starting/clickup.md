@@ -8,7 +8,7 @@ ClickUp הוא כלי לניהול פרויקטים ומשימות המיועד 
 
 ## כיצד מאורגן ClickUp?
 
-![OnboardingHierarchy.gif](./OnboardingHierarchy.gif)
+![OnboardingHierarchy.gif](OnboardingHierarchy.gif)
 
 ### שטח עבודה (Workspace)
 מכיל את כל הדברים ואת כל העבודה שלנו.
