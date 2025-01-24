@@ -69,19 +69,13 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'hasbara',
           position: 'left',
-          html: '<i class="fas fa-book-open"></i> אתר ההסברה', 
-        },
-        {
-          type: 'docSidebar',
-          sidebarId: 'post',
-          position: 'left',
-          label: 'סוגי תוכן',
+          html: '<i class="fas fa-light-bulb"></i> אתר ההסברה', 
         },
         {
           type: 'docSidebar',
           sidebarId: 'heroes',
           position: 'left',
-          label: 'פורטל גיבורים',
+          html: '<i class="fas fa-heart"></i> גיבורים',
         },
         {
           type: 'docSidebar',
@@ -91,20 +85,24 @@ const config: Config = {
         },
         {
           type: 'dropdown',
-          label: 'קישורים חשובים',
+          label: 'קישורים חיצוניים',
           position: 'right',
           items: [
             {
               href: 'https://iron-swords.co.il/',
-              label: 'אתר ההסברה',
+              html: '<i class="fas fa-home"></i> אתר חרבות ברזל',
             },
             {
               href: 'https://app.clickup.com/9018603423/home',
-              label: 'פורטל המתנדבים',
+              html: '<i class="fas fa-tasks"></i> קליקאפ',
+            },
+            {
+              href: 'https://heroes.iron-swords.co.il/',
+              html: '<i class="fas fa-user-shield"></i> פורטל הגיבורים',
             },
             {
               href: 'https://discord.gg/88aZaVxDy5',
-              label: 'שרת הדיסקורד',
+              html: '<i class="fab fa-discord"></i> דיסקורד',
             },
           ],
         },
