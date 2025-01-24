@@ -67,9 +67,9 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'starting',
+          sidebarId: 'hasbara',
           position: 'left',
-          label: 'אתר ההסברה',
+          html: '<i class="fas fa-book-open"></i> אתר ההסברה', 
         },
         {
           type: 'docSidebar',
