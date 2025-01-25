@@ -1,6 +1,7 @@
 ---
 sidebarCollapsed: false
 sidebarCollapsible: false
+sidebar_position: 4
 ---
 
 # וורדפרס
