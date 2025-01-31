@@ -1,3 +1,0 @@
----
-title: Pro Israel GPT
----
